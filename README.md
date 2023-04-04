@@ -1,4 +1,4 @@
-# Desafio-uffmail
+# Email generator
 
 ## Pré requisitos
 Para rodar o projeto é necessário utilizar uma IDE que suporte a linguagem Java, como Eclipse, NetBeans, etc. Após clonar o projeto do repositório, basta abri-lo na IDE 
